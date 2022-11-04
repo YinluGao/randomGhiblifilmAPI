@@ -1,0 +1,36 @@
+.h2__title {
+  font-size: 2rem;
+  font-style: oblique;
+}
+
+/* #movie {
+  width: 50rem;
+} */
+
+body {
+  text-align: center;
+}
+
+#comment__bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#movie__description {
+  width: 30rem;
+  padding: 3rem 0;
+}
+
+.desc_center {
+  display: flex;
+  padding: 10rem 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* img {
+  height: 36rem;
+  width: auto;
+} */
